@@ -1,0 +1,135 @@
+{
+    "$id": "http://example.com/example.json",
+    "title": "Root Schema",
+    "description": "The root schema is the schema that comprises the entire JSON document.",
+    "type": "array",
+    "items": {
+        "title": "A Schema",
+        "description": "An explanation about the purpose of this instance.",
+        "type": "object",
+        "required": [
+            "id",
+            "name",
+            "username",
+            "email",
+            "address",
+            "phone",
+            "website",
+            "company"
+        ],
+        "properties": {
+            "id": {
+                "title": "The id Schema",
+                "description": "An explanation about the purpose of this instance.",
+                "type": "integer"
+            },
+            "name": {
+                "title": "The name Schema",
+                "description": "An explanation about the purpose of this instance.",
+                "type": "string"
+            },
+            "username": {
+                "title": "The username Schema",
+                "description": "An explanation about the purpose of this instance.",
+                "type": "string"
+            },
+            "email": {
+                "title": "The email Schema",
+                "description": "An explanation about the purpose of this instance.",
+                "type": "string"
+            },
+            "address": {
+                "title": "The address Schema",
+                "description": "An explanation about the purpose of this instance.",
+                "type": "object",
+                "required": [
+                    "street",
+                    "suite",
+                    "city",
+                    "zipcode",
+                    "geo"
+                ],
+                "properties": {
+                    "street": {
+                        "title": "The street Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "type": "string"
+                    },
+                    "suite": {
+                        "title": "The suite Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "type": "string"
+                    },
+                    "city": {
+                        "title": "The city Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "type": "string"
+                    },
+                    "zipcode": {
+                        "title": "The zipcode Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "type": "string"
+                    },
+                    "geo": {
+                        "title": "The geo Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "type": "object",
+                        "required": [
+                            "lat",
+                            "lng"
+                        ],
+                        "properties": {
+                            "lat": {
+                                "title": "The lat Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "type": "string"
+                            },
+                            "lng": {
+                                "title": "The lng Schema",
+                                "description": "An explanation about the purpose of this instance.",
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            },
+            "phone": {
+                "title": "The phone Schema",
+                "description": "An explanation about the purpose of this instance.",
+                "type": "string"
+            },
+            "website": {
+                "title": "The website Schema",
+                "description": "An explanation about the purpose of this instance.",
+                "type": "string"
+            },
+            "company": {
+                "title": "The company Schema",
+                "description": "An explanation about the purpose of this instance.",
+                "type": "object",
+                "required": [
+                    "name",
+                    "catchPhrase",
+                    "bs"
+                ],
+                "properties": {
+                    "name": {
+                        "title": "The name Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "type": "string"
+                    },
+                    "catchPhrase": {
+                        "title": "The catchPhrase Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "type": "string"
+                    },
+                    "bs": {
+                        "title": "The bs Schema",
+                        "description": "An explanation about the purpose of this instance.",
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}

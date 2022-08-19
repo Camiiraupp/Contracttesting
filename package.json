@@ -1,0 +1,26 @@
+{
+  "name": "jsonschema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodmatola/cypress-ajv-jsonschema-validation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodmatola/cypress-ajv-jsonschema-validation/issues"
+  },
+  "homepage": "https://github.com/rodmatola/cypress-ajv-jsonschema-validation#readme",
+  "dependencies": {
+    "cypress": "^9"
+  },
+  "devDependencies": {
+    "ajv": "^8.11.0"
+  }
+}
