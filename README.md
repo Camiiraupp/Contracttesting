@@ -13,4 +13,4 @@
 Nesse projeto vou ultilziar o cypress, AJV e o JSONSchema para isso precisamos preprarar o nosso ambiente. 
 
 
-![image](https://user-images.githubusercontent.com/105568405/187809919-924cad03-9994-4477-9fcd-14f3575cd738.png)
+![image](https://user-images.githubusercontent.com/105568405/187809946-29bcbd29-adc1-4e0a-b1af-769446588774.png)
