@@ -12,5 +12,5 @@
 
 Nesse projeto vou ultilziar o cypress, AJV e o JSONSchema para isso precisamos preprarar o nosso ambiente. 
 
-![test image size]<img src="[https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/105568405/187809749-5731a825-f24d-4c6c-834e-7998021d988a.png)" width="400" height="790">
 
+![image](https://user-images.githubusercontent.com/105568405/187809878-c16f44c8-1f57-43ef-aee7-ccdd75c16847.png)
