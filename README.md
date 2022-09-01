@@ -12,10 +12,10 @@
 
 Nesse projeto vou ultilziar o cypress, AJV e o JSONSchema para isso precisamos preprarar o nosso ambiente. 
 
-$ npx install node
-$ npm init -y 
-$ npm install cypress --save dev
-$ npm install ajv --save dev 
+npx install node
+npm init -y 
+npm install cypress --save dev
+npm install ajv --save dev 
 
 
 
