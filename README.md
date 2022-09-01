@@ -13,7 +13,7 @@
 
  ##  :small_orange_diamond: E o que são os testes de contrato?
 
-<p align="justify">Agora que entendemos o que é um contrato, fica mais facil de compreender como é feito os testes. Primeiramente os testes de contrato são voltados à aplicações com arquiteturas baseadas em serviços e microsserviços, sendou ma maneira de reduzir os riscos e erros de uma integração, visto que ela e desenvolvida por diversas equipe e uma mudança no produtor pode causar falha no consumidor. A finalidade do testes de contrato e validar se o acordo definido não foi quebrado, se o schema permanece o mesmo garantido a integridade dos dados da comunicação. </p>
+<p align="justify">Agora que entendemos o que é um contrato, fica mais facil de compreender como é feito os testes. Primeiramente os testes de contrato são voltados à aplicações com arquiteturas baseadas em serviços e microsserviços, sendo uma maneira de reduzir os riscos e erros de uma integração, visto que ela e desenvolvida por diversas equipe e uma mudança no produtor pode causar falha no consumidor. A finalidade do testes de contrato e validar se o acordo definido não foi quebrado, se o schema permanece o mesmo garantido a integridade dos dados da comunicação. </p>
 
  ##  :small_orange_diamond: Como rodar a aplicação 
 
