@@ -1,6 +1,7 @@
 
-<h1 align="center"> :star:Testes de contrato de API:star: </h1>
+> <h1 align="center"> :star:Testes de contrato de API:star: </h1>
 
+<br>
 
 ##  :small_orange_diamond: Descrição do Projeto
 <p align="justify"> Estudo de testes de contrato ultilizando AJV e JSONSchnema </p>
@@ -69,4 +70,7 @@ npx cypress open
 ~~~
 
 
-:warning::warning: Status do Projeto: Em desenvolvimento :warning::warning:
+<h2 align="center"> :warning::warning: Status do Projeto: Em desenvolvimento :warning::warning: </h2>
+
+
+
