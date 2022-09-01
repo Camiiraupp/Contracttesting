@@ -11,4 +11,4 @@
 # Mão na massa
 
 Nesse projeto vou ultilziar o cypress, AJV e o JSONSchema para isso precisamos preprarar o nosso ambiente. 
-![image](https://user-images.githubusercontent.com/105568405/187809709-a8911413-50f0-41ad-bbd3-a9290311423a.png)
+![image](https://user-images.githubusercontent.com/105568405/187809749-5731a825-f24d-4c6c-834e-7998021d988a.png)
